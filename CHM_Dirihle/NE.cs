@@ -10,5 +10,7 @@ namespace CHM_Dirihle
     {
         public double nn;
         public double ee;
+        public int x;
+        public int y;
     }
 }
